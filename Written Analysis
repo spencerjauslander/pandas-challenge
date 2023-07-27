@@ -1,0 +1,6 @@
+From the Main.ipynb data, there are serveral conclusions to arrive to:
+1. Schools having better performance (determined by % Overall) is not related to their budget or to how much they spends on each student. In fact, it seems to have a negative trend. We see this as the bottom 
+  5 performing schools have, on average, a bigger budget and a bigger per student budget over the top 5 performing schools. 
+2. Math and reading scores remain stagnant between the grades. There is a lack of improvement as grades continue but there is also no decrease of skills neither.
+3. Large schools tend to have lower overall passing percentages. A increase of students seems might be a bigger strain on school systems and resources.
+4. Charter Schools perform better than district schools on average. Most likely due to better management. 
